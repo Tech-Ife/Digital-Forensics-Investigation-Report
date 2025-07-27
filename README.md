@@ -159,4 +159,5 @@ The forensic workflow followed these stages:
 ##  Author
 
 **Ifeanyi Christian Edeh**  
+Cybersecurity Specialist
 - [LinkedIn](https://www.linkedin.com/in/ifeanyiedeh)
