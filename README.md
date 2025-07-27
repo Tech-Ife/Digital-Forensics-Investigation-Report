@@ -97,9 +97,9 @@ The forensic workflow followed these stages:
 
 ---
 
-##  Project Files
+##  Project File
 
--  [Digital Forensics Report pdf](
+-  [Digital Forensics Report pdf](Docs/Digital_Forensics_Report.pdf)
   
 ---
 
