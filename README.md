@@ -132,19 +132,15 @@ The forensic workflow followed these stages:
 ---
 
 ![](Screenshots/VirusTotal_Coreupdater_exe.png)
+>  - **The file coreupdater.exe was flagged as malicious by 64/75 vendors on VirusTotal, identified as a Metasploit-related trojan.**
 
 ---
 
 ![](Screenshots/Coreupdater_download_exe.png)
-
+>  - **This capture shows an HTTP GET request from client 10.42.85.10 to server 194.61.24.102 on port 80. The server responds with HTTP/1.0 200 OK.**
 ---
 
 ![](Screenshots/Local_Time_Server.png)
-
----
-
-
-> Include screenshots of Autopsy interface, Wireshark flows, Volatility outputs, or registry paths showing persistence indicators. *(Optional but recommended for the GitHub preview.)*
 
 ---
 
