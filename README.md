@@ -2,7 +2,7 @@
 
 ##  Project Overview
 
-This project formed part of my training during the February 2025 cohort at the Lighthouse Labs Cybersecurity Bootcamp. It contains a **comprehensive Digital Forensics Report and investigation findings** for the **simulated incident “The Stolen Szechuan Sauce,”**  
+This project formed part of my training during the February 2025 cohort at the Lighthouse Labs Cybersecurity Bootcamp. It contains a **comprehensive Digital Forensics Report and investigation findings** for the **simulated incident “The Stolen Szechuan Sauce.”**  
 
  As part of the project, I was provided with a set of forensic artifacts, including disk images, memory dumps, and network traffic logs (PCAP), and tasked with conducting a comprehensive digital forensics investigation. 
  
