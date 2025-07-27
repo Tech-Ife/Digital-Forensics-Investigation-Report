@@ -121,13 +121,23 @@ The forensic workflow followed these stages:
 
 ![](Screenshots/OS_Discovery_Server.png)
 
+---
+
 ![](Screenshots/OS_Discovery_Desktop.png)
+
+---
 
 ![](Screenshots/Initial_Entry_Vector.png)
 
+---
+
 ![](Screenshots/VirusTotal_Coreupdater_exe.png)
 
-![]
+---
+
+![](Screenshots/Coreupdater_download_exe.png)
+
+---
 
 ![]
 
