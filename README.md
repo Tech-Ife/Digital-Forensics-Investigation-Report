@@ -119,6 +119,11 @@ The forensic workflow followed these stages:
 
 ##  Screenshots
 
+![](Screenshots/OS_Discovery_Server.png)
+
+---
+
+
 > Include screenshots of Autopsy interface, Wireshark flows, Volatility outputs, or registry paths showing persistence indicators. *(Optional but recommended for the GitHub preview.)*
 
 ---
