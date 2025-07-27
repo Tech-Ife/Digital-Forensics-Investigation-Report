@@ -123,7 +123,7 @@ The forensic workflow followed these stages:
 
 ![](Screenshots/OS_Discovery_Desktop.png)
 
-![]
+![](Screenshots/Initial_Entry_Vector.png)
 
 ![]
 
