@@ -139,7 +139,7 @@ The forensic workflow followed these stages:
 
 ---
 
-![]
+![](Screenshots/Local_Time_Server.png)
 
 ---
 
