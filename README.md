@@ -121,6 +121,16 @@ The forensic workflow followed these stages:
 
 ![](Screenshots/OS_Discovery_Server.png)
 
+![](Screenshots/OS_Discovery_Desktop.png)
+
+![]
+
+![]
+
+![]
+
+![]
+
 ---
 
 
