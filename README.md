@@ -125,7 +125,7 @@ The forensic workflow followed these stages:
 
 ![](Screenshots/Initial_Entry_Vector.png)
 
-![]
+![](Screenshots/VirusTotal_Coreupdater_exe.png)
 
 ![]
 
